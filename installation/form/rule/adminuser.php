@@ -13,7 +13,7 @@ defined('JPATH_BASE') or die;
  *
  * @since  3.5
  */
-class InstallationFormRuleUseradmin extends JFormRule
+class InstallationFormRuleAdminuser extends JFormRule
 {
 	/**
 	 * The regular expression to use in testing a form field value.

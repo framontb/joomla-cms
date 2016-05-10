@@ -22,7 +22,7 @@
 		<field name="admin_user" type="text" id="admin_user" class="inputbox"
 			label="INSTL_ADMIN_USER_LABEL"
 			required="true"
-			validate="installation.useradmin"
+			validate="installation.adminuser"
 		/>
 
 		<field name="admin_password" type="password" id="admin_password" class="inputbox"
